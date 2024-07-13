@@ -1,4 +1,6 @@
-# Text Steganography
-Hiding a text an image using steganography
+# Image Steganography
+Hiding a text inside an image using steganography
+
+
 
 
